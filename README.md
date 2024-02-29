@@ -1,5 +1,5 @@
 ### Live Project Link
-[(https://orhan-34.github.io/bootstrap-flip-on-hover-cards/)]
+(https://orhan-34.github.io/bootstrap-flip-on-hover-cards/)
 
 ### Project Output Screen
 -----
